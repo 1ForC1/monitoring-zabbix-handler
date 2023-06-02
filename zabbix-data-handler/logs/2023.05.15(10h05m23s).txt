@@ -1,0 +1,1324 @@
+2023.05.15(10h05m23s): Подключение к базе данных...
+2023.05.15(10h05m23s): Успешное подключение!
+2023.05.15(10h05m23s): Авторизация...
+2023.05.15(10h05m24s): Обновление данных...
+2023.05.15(10h05m24s): Загрузка хостов...
+2023.05.15(10h05m25s): Hostid: 10084, HostName: MC11, HostInterfaces: [{192.168.42.200} {127.0.0.1}]
+2023.05.15(10h05m25s): Hostid: 10119, HostName: ARM01, HostInterfaces: [{192.168.42.201}]
+2023.05.15(10h05m25s): Hostid: 10120, HostName: ARM02, HostInterfaces: [{192.168.42.202}]
+2023.05.15(10h05m25s): Hostid: 10121, HostName: ARM03, HostInterfaces: [{192.168.42.203}]
+2023.05.15(10h05m25s): Hostid: 10122, HostName: ARM04, HostInterfaces: [{192.168.42.204}]
+2023.05.15(10h05m25s): Hostid: 10123, HostName: ARM05, HostInterfaces: [{192.168.42.205}]
+2023.05.15(10h05m25s): Hostid: 10124, HostName: ARM06, HostInterfaces: [{192.168.42.206}]
+2023.05.15(10h05m25s): Hostid: 10125, HostName: ARM07, HostInterfaces: [{192.168.42.207}]
+2023.05.15(10h05m25s): Hostid: 10126, HostName: ARM17, HostInterfaces: [{192.168.42.246}]
+2023.05.15(10h05m25s): Hostid: 10127, HostName: ARM08, HostInterfaces: [{192.168.42.208}]
+2023.05.15(10h05m25s): Hostid: 10128, HostName: ARM09, HostInterfaces: [{192.168.42.209}]
+2023.05.15(10h05m25s): Hostid: 10129, HostName: ARM10, HostInterfaces: [{192.168.42.210}]
+2023.05.15(10h05m25s): Hostid: 10130, HostName: ARM11, HostInterfaces: [{192.168.42.211}]
+2023.05.15(10h05m25s): Hostid: 10131, HostName: ARM12, HostInterfaces: [{192.168.42.212}]
+2023.05.15(10h05m25s): Hostid: 10132, HostName: ARM13, HostInterfaces: [{192.168.42.213}]
+2023.05.15(10h05m25s): Hostid: 10133, HostName: ARM14, HostInterfaces: [{192.168.42.214}]
+2023.05.15(10h05m25s): Hostid: 10134, HostName: ARM15, HostInterfaces: [{192.168.42.215}]
+2023.05.15(10h05m25s): Hostid: 10135, HostName: ARM16, HostInterfaces: [{192.168.42.245}]
+2023.05.15(10h05m25s): Hostid: 10136, HostName: ARM18, HostInterfaces: [{192.168.42.247}]
+2023.05.15(10h05m25s): Hostid: 10137, HostName: ARM19, HostInterfaces: [{192.168.42.219}]
+2023.05.15(10h05m25s): Hostid: 10138, HostName: ARM20, HostInterfaces: [{192.168.42.220}]
+2023.05.15(10h05m25s): Hostid: 10139, HostName: ARM21, HostInterfaces: [{192.168.42.221}]
+2023.05.15(10h05m25s): Hostid: 10140, HostName: ARM22, HostInterfaces: [{192.168.42.222}]
+2023.05.15(10h05m25s): Hostid: 10141, HostName: ARM23, HostInterfaces: [{192.168.42.223}]
+2023.05.15(10h05m25s): Hostid: 10142, HostName: ARM24, HostInterfaces: [{192.168.42.224}]
+2023.05.15(10h05m25s): Hostid: 10143, HostName: ARM25, HostInterfaces: [{192.168.42.225}]
+2023.05.15(10h05m25s): Hostid: 10144, HostName: ARM26, HostInterfaces: [{192.168.42.226}]
+2023.05.15(10h05m25s): Hostid: 10145, HostName: ARM27, HostInterfaces: [{192.168.42.242}]
+2023.05.15(10h05m25s): Hostid: 10146, HostName: ARM28, HostInterfaces: [{192.168.42.243}]
+2023.05.15(10h05m25s): Hostid: 10147, HostName: ARM29, HostInterfaces: [{192.168.42.244}]
+2023.05.15(10h05m25s): Hostid: 10148, HostName: ARM30, HostInterfaces: [{192.168.42.230}]
+2023.05.15(10h05m25s): Hostid: 10149, HostName: ARM31, HostInterfaces: [{192.168.42.231}]
+2023.05.15(10h05m25s): Hostid: 10150, HostName: ARM32, HostInterfaces: [{192.168.42.232}]
+2023.05.15(10h05m25s): Hostid: 10151, HostName: MC21, HostInterfaces: [{192.168.42.216}]
+2023.05.15(10h05m25s): Hostid: 10153, HostName: MC12, HostInterfaces: [{192.168.42.252}]
+2023.05.15(10h05m25s): Hostid: 10154, HostName: MC22, HostInterfaces: [{192.168.42.243}]
+2023.05.15(10h05m25s): Hostid: 10155, HostName: CC21, HostInterfaces: [{192.168.42.218}]
+2023.05.15(10h05m25s): Hostid: 10156, HostName: CC12, HostInterfaces: [{192.168.42.248}]
+2023.05.15(10h05m25s): Hostid: 10157, HostName: CC22, HostInterfaces: [{192.168.42.249}]
+2023.05.15(10h05m25s): Hostid: 10158, HostName: CC11, HostInterfaces: [{192.168.42.217} {192.168.42.217}]
+2023.05.15(10h05m25s): Hostid: 10159, HostName: Printer 1, HostInterfaces: [{127.0.0.1} {127.0.0.1}]
+2023.05.15(10h05m25s): Hostid: 10160, HostName: Printer 2, HostInterfaces: [{127.0.0.1} {127.0.0.1}]
+2023.05.15(10h05m25s): Hostid: 10161, HostName: MFU 1, HostInterfaces: [{127.0.0.1} {127.0.0.1}]
+2023.05.15(10h05m25s): Hostid: 10162, HostName: MFU 2, HostInterfaces: [{127.0.0.1} {127.0.0.1}]
+2023.05.15(10h05m25s): Hostid: 10163, HostName: Plotter, HostInterfaces: [{127.0.0.1} {127.0.0.1}]
+2023.05.15(10h05m25s): Hostid: 10164, HostName: Commutator 1, HostInterfaces: [{127.0.0.1}]
+2023.05.15(10h05m25s): Hostid: 10165, HostName: Commutator 2, HostInterfaces: [{127.0.0.1}]
+2023.05.15(10h05m25s): Hostid: 10166, HostName: Commutator 3, HostInterfaces: [{127.0.0.1}]
+2023.05.15(10h05m25s): Hostid: 10167, HostName: Commutator 4, HostInterfaces: [{127.0.0.1}]
+2023.05.15(10h05m25s): Hostid: 10168, HostName: SOI 1, HostInterfaces: [{127.0.0.1}]
+2023.05.15(10h05m25s): Hostid: 10169, HostName: SOI 2, HostInterfaces: [{127.0.0.1}]
+2023.05.15(10h05m25s): Загрузка данных заргуженности процессора(среднее за 15 мин)...
+2023.05.15(10h05m25s): HostId: 10119, Value: 0.0500, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10120, Value: 0.0500, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10121, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10122, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10125, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10126, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10127, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10123, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10084, Value: 0.6000, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10124, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10128, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10129, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10130, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10131, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10132, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10133, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10134, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10135, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10136, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10137, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10138, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10139, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10140, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10141, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10142, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10143, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10144, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10145, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10146, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10147, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10148, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10149, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10150, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10151, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10153, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10156, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10154, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10157, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10155, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): Загрузка данных заргуженности процессора(среднее за 5 мин)...
+2023.05.15(10h05m25s): HostId: 10119, Value: 0.0100, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10120, Value: 0.0100, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10121, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10122, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10125, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10126, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10127, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10123, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10084, Value: 0.5300, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10124, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10128, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10129, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10130, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10131, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10132, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10133, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10134, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10135, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10136, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10137, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10138, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10139, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10140, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10141, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10142, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10143, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10144, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10145, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10146, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10147, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10148, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10149, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10150, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10151, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10153, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10156, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10154, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10157, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10155, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): Загрузка данных заргуженности процессора(среднее за 1 мин)...
+2023.05.15(10h05m25s): HostId: 10119, Value: 0.0000, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10120, Value: 0.0000, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10125, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10121, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10122, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10126, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10123, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10084, Value: 0.5800, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10127, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10124, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10128, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10129, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10130, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10131, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10132, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10133, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10134, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10135, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10136, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10137, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10138, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10139, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10140, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10141, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10142, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10143, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10144, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10145, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10146, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10147, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10148, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10149, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10150, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10151, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10153, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10156, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10154, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10157, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10155, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): Загрузка данных заргуженности процессора(пользователем в процентах)...
+2023.05.15(10h05m25s): HostId: 10119, Value: 0.0502, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10127, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10120, Value: 0.0668, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10121, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10125, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10122, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10126, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10123, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10084, Value: 42.1003, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10124, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10128, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10129, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10130, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10131, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10132, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10133, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10134, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10135, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10136, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10137, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10138, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10139, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10140, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10141, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10142, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10143, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10144, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10145, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10146, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10147, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10148, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10149, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10150, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10151, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10153, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10156, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10154, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10157, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10155, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): Загрузка данных заргуженности процессора(в простое в процентах)...
+2023.05.15(10h05m25s): HostId: 10119, Value: 99.8830, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10127, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10120, Value: 99.8498, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10121, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10125, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10122, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10126, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10123, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10084, Value: 54.8682, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10124, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10128, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10129, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10130, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10131, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10132, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10133, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10134, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10135, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10136, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10137, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10138, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10139, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10140, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10141, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10142, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10143, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10144, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10145, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10146, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10147, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10148, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10149, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10150, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10151, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10153, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10156, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10154, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10157, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): HostId: 10155, Value: 0, Time_load: 2023.05.15(10h05m25s)
+2023.05.15(10h05m25s): Загрузка данных заргуженности процессора(прерывания в процентах)...
+2023.05.15(10h05m26s): HostId: 10119, Value: 0.0000, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10120, Value: 0.0000, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10121, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10122, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10125, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10126, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10127, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10123, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10084, Value: 0.0000, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10124, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10128, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10129, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10130, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10131, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10132, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10133, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10134, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10135, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10136, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10137, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10138, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10139, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10140, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10141, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10142, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10143, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10144, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10145, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10146, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10147, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10148, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10149, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10150, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10151, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10153, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10156, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10154, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10157, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10155, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): Загрузка данных заргуженности процессора(ожидание в процентах)...
+2023.05.15(10h05m26s): HostId: 10119, Value: 0.0167, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10120, Value: 0.0000, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10121, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10122, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10125, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10127, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10126, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10123, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10084, Value: 0.1121, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10124, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10128, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10129, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10130, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10131, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10132, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10133, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10134, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10135, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10136, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10137, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10138, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10139, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10140, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10141, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10142, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10143, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10144, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10145, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10146, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10147, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10148, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10149, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10150, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10151, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10153, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10156, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10154, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10157, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10155, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): Загрузка данных заргуженности процессора(при выполнении на пользовательском уровне с хорошим приоритетом в процентах)...
+2023.05.15(10h05m26s): HostId: 10119, Value: 0.0000, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10120, Value: 0.0000, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10121, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10125, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10122, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10127, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10126, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10123, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10084, Value: 0.0000, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10124, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10128, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10129, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10130, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10131, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10132, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10133, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10134, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10135, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10136, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10137, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10138, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10139, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10140, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10141, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10142, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10143, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10144, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10145, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10146, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10147, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10148, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10149, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10150, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10151, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10153, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10156, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10154, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10157, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10155, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): Загрузка данных заргуженности процессора(прогаммные прерывания в процентах)...
+2023.05.15(10h05m26s): HostId: 10119, Value: 0.0000, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10120, Value: 0.0167, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10121, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10122, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10125, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10126, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10127, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10123, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10084, Value: 0.1123, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10124, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10128, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10129, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10130, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10131, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10132, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10133, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10134, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10135, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10136, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10137, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10138, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10139, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10140, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10141, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10142, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10143, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10144, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10145, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10146, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10147, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10148, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10149, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10150, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10151, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10153, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10156, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10154, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10157, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10155, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): Загрузка данных заргуженности процессора(время в течении которого виртуальная машина не получает ресурсы процессора в процентах)...
+2023.05.15(10h05m26s): HostId: 10119, Value: 0.0000, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10120, Value: 0.0000, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10121, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10122, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10125, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10126, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10127, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10123, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10084, Value: 0.0000, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10124, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10128, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10129, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10130, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10131, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10132, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10133, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10134, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10135, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10136, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10137, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10138, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10139, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10140, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10141, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10142, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10143, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10144, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10145, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10146, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10147, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10148, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10149, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10150, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10151, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10153, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10156, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10154, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10157, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10155, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): Загрузка данных заргуженности процессора(системой в процентах)...
+2023.05.15(10h05m26s): HostId: 10119, Value: 0.0334, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10120, Value: 0.0501, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10121, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10125, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10122, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10127, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10126, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10123, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10084, Value: 2.9010, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10124, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10128, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10129, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10130, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10131, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10132, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10133, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10134, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10135, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10136, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10137, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10138, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10139, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10140, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10141, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10142, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10143, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10144, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10145, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10146, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10147, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10148, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10149, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10150, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10151, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10153, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10156, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10154, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10157, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): HostId: 10155, Value: 0, Time_load: 2023.05.15(10h05m26s)
+2023.05.15(10h05m26s): Загрузка данных о свободном месте на диске...
+2023.05.15(10h05m27s): HostId: 10084, Value: 10405810176, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10119, Value: 14787084288, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10121, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10122, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10124, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10120, Value: 5603442688, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10123, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10125, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10126, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10128, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10127, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10134, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10131, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10136, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10129, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10130, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10132, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10133, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10135, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10151, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10155, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10140, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): Загрузка данных об общем количестве места на диске...
+2023.05.15(10h05m27s): HostId: 10084, Value: 20091629568, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10119, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10121, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10122, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10124, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10120, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10123, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10125, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10126, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10127, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10128, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10134, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10131, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10136, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10129, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10130, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10132, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10133, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10135, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10151, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10155, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10140, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): Загрузка данных о свободной оперативной памяти...
+2023.05.15(10h05m27s): HostId: 10119, Value: 1894825984, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10120, Value: 1924636672, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10121, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10084, Value: 935247872, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10122, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10125, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10126, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10127, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10123, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10124, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10128, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10129, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10130, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10131, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10132, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10133, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10134, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10135, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10136, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10137, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10138, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10139, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10140, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10141, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10142, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10143, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10144, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10145, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10146, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10147, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10148, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10149, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10150, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10151, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10153, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10156, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10154, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10157, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10155, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): Загрузка данных об общем количестве оперативной памяти...
+2023.05.15(10h05m27s): HostId: 10119, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10127, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10120, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10121, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10125, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10122, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10126, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10123, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10084, Value: 2095185920, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10124, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10128, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10129, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10130, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10131, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10132, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10133, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10134, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10135, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10136, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10137, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10138, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10139, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10140, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10141, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10142, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10143, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10144, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10145, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10146, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10147, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10148, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10149, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10150, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10151, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10153, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10156, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10154, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10157, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): HostId: 10155, Value: 0, Time_load: 2023.05.15(10h05m27s)
+2023.05.15(10h05m27s): Загрузка триггеров(на неисправности)...
+2023.05.15(10h05m27s): Triggerid: 13867, Expression: {MC11:system.run[service gonets-scheduller status].str(not)}#0, Description: Сервис Gonets не работает на MC11, Priority: 3, HostId: 10084
+2023.05.15(10h05m29s): Сработавших триггеров по хосту 10119 ARM01 не обнаружено
+2023.05.15(10h05m29s): Triggerid: 13829, Expression: {ARM02:system.uptime.change(0)}<0, Description: ARM02 был перезагружен, Priority: 1, HostId: 10120
+2023.05.15(10h05m30s): Triggerid: 13836, Expression: {ARM03:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM03 недоступен более 5 минут, Priority: 3, HostId: 10121
+2023.05.15(10h05m30s): Triggerid: 13853, Expression: {ARM04:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM04 недоступен более 5 минут, Priority: 3, HostId: 10122
+2023.05.15(10h05m30s): Triggerid: 13875, Expression: {ARM05:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM05 недоступен более 5 минут, Priority: 3, HostId: 10123
+2023.05.15(10h05m30s): Triggerid: 13892, Expression: {ARM06:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM06 недоступен более 5 минут, Priority: 3, HostId: 10124
+2023.05.15(10h05m30s): Triggerid: 13907, Expression: {ARM07:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM07 недоступен более 5 минут, Priority: 3, HostId: 10125
+2023.05.15(10h05m31s): Triggerid: 13936, Expression: {ARM17:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM17 недоступен более 5 минут, Priority: 3, HostId: 10126
+2023.05.15(10h05m31s): Triggerid: 13953, Expression: {ARM08:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM08 недоступен более 5 минут, Priority: 3, HostId: 10127
+2023.05.15(10h05m31s): Triggerid: 13970, Expression: {ARM09:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM09 недоступен более 5 минут, Priority: 3, HostId: 10128
+2023.05.15(10h05m31s): Triggerid: 13987, Expression: {ARM10:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM10 недоступен более 5 минут, Priority: 3, HostId: 10129
+2023.05.15(10h05m31s): Triggerid: 14004, Expression: {ARM11:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM11 недоступен более 5 минут, Priority: 3, HostId: 10130
+2023.05.15(10h05m31s): Triggerid: 14021, Expression: {ARM12:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM12 недоступен более 5 минут, Priority: 3, HostId: 10131
+2023.05.15(10h05m31s): Triggerid: 14038, Expression: {ARM13:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM13 недоступен более 5 минут, Priority: 3, HostId: 10132
+2023.05.15(10h05m32s): Triggerid: 14055, Expression: {ARM14:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM14 недоступен более 5 минут, Priority: 3, HostId: 10133
+2023.05.15(10h05m32s): Triggerid: 14072, Expression: {ARM15:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM15 недоступен более 5 минут, Priority: 3, HostId: 10134
+2023.05.15(10h05m34s): Triggerid: 14089, Expression: {ARM16:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM16 недоступен более 5 минут, Priority: 3, HostId: 10135
+2023.05.15(10h05m34s): Triggerid: 14108, Expression: {ARM18:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM18 недоступен более 5 минут, Priority: 3, HostId: 10136
+2023.05.15(10h05m34s): Triggerid: 14146, Expression: {ARM19:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM19 недоступен более 5 минут, Priority: 3, HostId: 10137
+2023.05.15(10h05m34s): Triggerid: 14163, Expression: {ARM20:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM20 недоступен более 5 минут, Priority: 3, HostId: 10138
+2023.05.15(10h05m35s): Triggerid: 14180, Expression: {ARM21:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM21 недоступен более 5 минут, Priority: 3, HostId: 10139
+2023.05.15(10h05m35s): Triggerid: 14197, Expression: {ARM22:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM22 недоступен более 5 минут, Priority: 3, HostId: 10140
+2023.05.15(10h05m35s): Triggerid: 14212, Expression: {ARM23:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM23 недоступен более 5 минут, Priority: 3, HostId: 10141
+2023.05.15(10h05m35s): Triggerid: 14229, Expression: {ARM24:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM24 недоступен более 5 минут, Priority: 3, HostId: 10142
+2023.05.15(10h05m35s): Triggerid: 14246, Expression: {ARM25:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM25 недоступен более 5 минут, Priority: 3, HostId: 10143
+2023.05.15(10h05m35s): Triggerid: 14265, Expression: {ARM26:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM26 недоступен более 5 минут, Priority: 3, HostId: 10144
+2023.05.15(10h05m36s): Triggerid: 14282, Expression: {ARM27:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM27 недоступен более 5 минут, Priority: 3, HostId: 10145
+2023.05.15(10h05m36s): Triggerid: 14297, Expression: {ARM28:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM28 недоступен более 5 минут, Priority: 3, HostId: 10146
+2023.05.15(10h05m36s): Triggerid: 14314, Expression: {ARM29:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM29 недоступен более 5 минут, Priority: 3, HostId: 10147
+2023.05.15(10h05m36s): Triggerid: 14333, Expression: {ARM30:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM30 недоступен более 5 минут, Priority: 3, HostId: 10148
+2023.05.15(10h05m37s): Triggerid: 14348, Expression: {ARM31:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM31 недоступен более 5 минут, Priority: 3, HostId: 10149
+2023.05.15(10h05m37s): Triggerid: 14367, Expression: {ARM32:agent.ping.nodata(5m)}=1, Description: Сборщик данных на ARM32 недоступен более 5 минут, Priority: 3, HostId: 10150
+2023.05.15(10h05m37s): Triggerid: 14384, Expression: {MC21:agent.ping.nodata(5m)}=1, Description: Сборщик данных на MC21 недоступен более 5 минут, Priority: 3, HostId: 10151
+2023.05.15(10h05m37s): Triggerid: 14418, Expression: {MC12:agent.ping.nodata(5m)}=1, Description: Сборщик данных на MC12 недоступен более 5 минут, Priority: 3, HostId: 10153
+2023.05.15(10h05m37s): Triggerid: 14452, Expression: {MC22:agent.ping.nodata(5m)}=1, Description: Сборщик данных на MC22 недоступен более 5 минут, Priority: 3, HostId: 10154
+2023.05.15(10h05m39s): Triggerid: 14486, Expression: {CC21:agent.ping.nodata(5m)}=1, Description: Сборщик данных на CC21 недоступен более 5 минут, Priority: 3, HostId: 10155
+2023.05.15(10h05m39s): Triggerid: 14435, Expression: {CC12:agent.ping.nodata(5m)}=1, Description: Сборщик данных на CC12 недоступен более 5 минут, Priority: 3, HostId: 10156
+2023.05.15(10h05m39s): Triggerid: 14469, Expression: {CC22:agent.ping.nodata(5m)}=1, Description: Сборщик данных на CC22 недоступен более 5 минут, Priority: 3, HostId: 10157
+2023.05.15(10h05m39s): Сработавших триггеров по хосту 10158 CC11 не обнаружено
+2023.05.15(10h05m40s): Сработавших триггеров по хосту 10159 Printer 1 не обнаружено
+2023.05.15(10h05m40s): Сработавших триггеров по хосту 10160 Printer 2 не обнаружено
+2023.05.15(10h05m40s): Сработавших триггеров по хосту 10161 MFU 1 не обнаружено
+2023.05.15(10h05m41s): Сработавших триггеров по хосту 10162 MFU 2 не обнаружено
+2023.05.15(10h05m41s): Сработавших триггеров по хосту 10163 Plotter не обнаружено
+2023.05.15(10h05m41s): Сработавших триггеров по хосту 10164 Commutator 1 не обнаружено
+2023.05.15(10h05m41s): Сработавших триггеров по хосту 10165 Commutator 2 не обнаружено
+2023.05.15(10h05m41s): Сработавших триггеров по хосту 10166 Commutator 3 не обнаружено
+2023.05.15(10h05m41s): Сработавших триггеров по хосту 10167 Commutator 4 не обнаружено
+2023.05.15(10h05m41s): Сработавших триггеров по хосту 10168 SOI 1 не обнаружено
+2023.05.15(10h05m42s): Сработавших триггеров по хосту 10169 SOI 2 не обнаружено
+2023.05.15(10h05m42s): Выполнение загрузки данных в БД...
+2023.05.15(10h05m42s): delete from "cpu_interrupt";delete from "cpu_Iowait";delete from "cpu_nice";
+delete from "cpu_softirq";delete from "cpu_steal";delete from "cpu_system";delete from "cpu_util_idle";
+delete from "cpu_util_user";delete from "memory_available";delete from "memory_total";
+delete from "percpu_avg1";delete from "percpu_avg5";delete from "percpu_avg15";delete from "size_free";
+delete from "size_total"; delete from "triggers";delete from "host";insert into "host"("hostid", "name_host", "ip_host") values(10084 , 'MC11', '{192.168.42.200,127.0.0.1}');
+insert into "host"("hostid", "name_host", "ip_host") values(10119 , 'ARM01', '{192.168.42.201}');
+insert into "host"("hostid", "name_host", "ip_host") values(10120 , 'ARM02', '{192.168.42.202}');
+insert into "host"("hostid", "name_host", "ip_host") values(10121 , 'ARM03', '{192.168.42.203}');
+insert into "host"("hostid", "name_host", "ip_host") values(10122 , 'ARM04', '{192.168.42.204}');
+insert into "host"("hostid", "name_host", "ip_host") values(10123 , 'ARM05', '{192.168.42.205}');
+insert into "host"("hostid", "name_host", "ip_host") values(10124 , 'ARM06', '{192.168.42.206}');
+insert into "host"("hostid", "name_host", "ip_host") values(10125 , 'ARM07', '{192.168.42.207}');
+insert into "host"("hostid", "name_host", "ip_host") values(10126 , 'ARM17', '{192.168.42.246}');
+insert into "host"("hostid", "name_host", "ip_host") values(10127 , 'ARM08', '{192.168.42.208}');
+insert into "host"("hostid", "name_host", "ip_host") values(10128 , 'ARM09', '{192.168.42.209}');
+insert into "host"("hostid", "name_host", "ip_host") values(10129 , 'ARM10', '{192.168.42.210}');
+insert into "host"("hostid", "name_host", "ip_host") values(10130 , 'ARM11', '{192.168.42.211}');
+insert into "host"("hostid", "name_host", "ip_host") values(10131 , 'ARM12', '{192.168.42.212}');
+insert into "host"("hostid", "name_host", "ip_host") values(10132 , 'ARM13', '{192.168.42.213}');
+insert into "host"("hostid", "name_host", "ip_host") values(10133 , 'ARM14', '{192.168.42.214}');
+insert into "host"("hostid", "name_host", "ip_host") values(10134 , 'ARM15', '{192.168.42.215}');
+insert into "host"("hostid", "name_host", "ip_host") values(10135 , 'ARM16', '{192.168.42.245}');
+insert into "host"("hostid", "name_host", "ip_host") values(10136 , 'ARM18', '{192.168.42.247}');
+insert into "host"("hostid", "name_host", "ip_host") values(10137 , 'ARM19', '{192.168.42.219}');
+insert into "host"("hostid", "name_host", "ip_host") values(10138 , 'ARM20', '{192.168.42.220}');
+insert into "host"("hostid", "name_host", "ip_host") values(10139 , 'ARM21', '{192.168.42.221}');
+insert into "host"("hostid", "name_host", "ip_host") values(10140 , 'ARM22', '{192.168.42.222}');
+insert into "host"("hostid", "name_host", "ip_host") values(10141 , 'ARM23', '{192.168.42.223}');
+insert into "host"("hostid", "name_host", "ip_host") values(10142 , 'ARM24', '{192.168.42.224}');
+insert into "host"("hostid", "name_host", "ip_host") values(10143 , 'ARM25', '{192.168.42.225}');
+insert into "host"("hostid", "name_host", "ip_host") values(10144 , 'ARM26', '{192.168.42.226}');
+insert into "host"("hostid", "name_host", "ip_host") values(10145 , 'ARM27', '{192.168.42.242}');
+insert into "host"("hostid", "name_host", "ip_host") values(10146 , 'ARM28', '{192.168.42.243}');
+insert into "host"("hostid", "name_host", "ip_host") values(10147 , 'ARM29', '{192.168.42.244}');
+insert into "host"("hostid", "name_host", "ip_host") values(10148 , 'ARM30', '{192.168.42.230}');
+insert into "host"("hostid", "name_host", "ip_host") values(10149 , 'ARM31', '{192.168.42.231}');
+insert into "host"("hostid", "name_host", "ip_host") values(10150 , 'ARM32', '{192.168.42.232}');
+insert into "host"("hostid", "name_host", "ip_host") values(10151 , 'MC21', '{192.168.42.216}');
+insert into "host"("hostid", "name_host", "ip_host") values(10153 , 'MC12', '{192.168.42.252}');
+insert into "host"("hostid", "name_host", "ip_host") values(10154 , 'MC22', '{192.168.42.243}');
+insert into "host"("hostid", "name_host", "ip_host") values(10155 , 'CC21', '{192.168.42.218}');
+insert into "host"("hostid", "name_host", "ip_host") values(10156 , 'CC12', '{192.168.42.248}');
+insert into "host"("hostid", "name_host", "ip_host") values(10157 , 'CC22', '{192.168.42.249}');
+insert into "host"("hostid", "name_host", "ip_host") values(10158 , 'CC11', '{192.168.42.217,192.168.42.217}');
+insert into "host"("hostid", "name_host", "ip_host") values(10159 , 'Printer 1', '{127.0.0.1,127.0.0.1}');
+insert into "host"("hostid", "name_host", "ip_host") values(10160 , 'Printer 2', '{127.0.0.1,127.0.0.1}');
+insert into "host"("hostid", "name_host", "ip_host") values(10161 , 'MFU 1', '{127.0.0.1,127.0.0.1}');
+insert into "host"("hostid", "name_host", "ip_host") values(10162 , 'MFU 2', '{127.0.0.1,127.0.0.1}');
+insert into "host"("hostid", "name_host", "ip_host") values(10163 , 'Plotter', '{127.0.0.1,127.0.0.1}');
+insert into "host"("hostid", "name_host", "ip_host") values(10164 , 'Commutator 1', '{127.0.0.1}');
+insert into "host"("hostid", "name_host", "ip_host") values(10165 , 'Commutator 2', '{127.0.0.1}');
+insert into "host"("hostid", "name_host", "ip_host") values(10166 , 'Commutator 3', '{127.0.0.1}');
+insert into "host"("hostid", "name_host", "ip_host") values(10167 , 'Commutator 4', '{127.0.0.1}');
+insert into "host"("hostid", "name_host", "ip_host") values(10168 , 'SOI 1', '{127.0.0.1}');
+insert into "host"("hostid", "name_host", "ip_host") values(10169 , 'SOI 2', '{127.0.0.1}');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10119 , 0.05 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10120 , 0.05 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10121 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10122 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10125 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10126 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10127 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10123 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10084 , 0.6 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10124 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10128 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10129 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10130 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10131 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10132 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10133 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10134 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10135 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10136 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10137 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10138 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10139 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10140 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10141 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10142 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10143 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10144 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10145 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10146 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10147 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10148 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10149 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10150 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10151 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10153 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10156 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10154 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10157 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg15" ("hostid", "value_percpu_avg15", "time_percpu_avg15") values (10155 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10119 , 0.01 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10120 , 0.01 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10121 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10122 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10125 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10126 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10127 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10123 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10084 , 0.53 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10124 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10128 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10129 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10130 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10131 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10132 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10133 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10134 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10135 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10136 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10137 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10138 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10139 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10140 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10141 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10142 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10143 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10144 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10145 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10146 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10147 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10148 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10149 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10150 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10151 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10153 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10156 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10154 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10157 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg5" ("hostid", "value_percpu_avg5", "time_percpu_avg5") values (10155 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10119 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10120 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10125 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10121 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10122 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10126 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10123 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10084 , 0.58 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10127 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10124 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10128 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10129 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10130 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10131 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10132 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10133 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10134 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10135 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10136 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10137 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10138 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10139 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10140 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10141 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10142 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10143 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10144 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10145 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10146 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10147 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10148 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10149 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10150 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10151 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10153 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10156 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10154 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10157 , 0 , '2023-05-15 10:05:25');
+insert into "percpu_avg1" ("hostid", "value_percpu_avg1", "time_percpu_avg1") values (10155 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10119 , 0.05 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10127 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10120 , 0.067 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10121 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10125 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10122 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10126 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10123 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10084 , 42.100500000000004 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10124 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10128 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10129 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10130 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10131 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10132 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10133 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10134 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10135 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10136 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10137 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10138 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10139 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10140 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10141 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10142 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10143 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10144 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10145 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10146 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10147 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10148 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10149 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10150 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10151 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10153 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10156 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10154 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10157 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_user" ("hostid", "value_cpu_util_user", "time_cpu_util_user") values (10155 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10119 , 99.883 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10127 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10120 , 99.85000000000001 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10121 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10125 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10122 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10126 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10123 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10084 , 54.868 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10124 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10128 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10129 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10130 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10131 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10132 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10133 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10134 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10135 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10136 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10137 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10138 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10139 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10140 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10141 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10142 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10143 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10144 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10145 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10146 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10147 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10148 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10149 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10150 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10151 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10153 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10156 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10154 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10157 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_util_idle" ("hostid", "value_cpu_util_idle", "time_cpu_util_idle") values (10155 , 0 , '2023-05-15 10:05:25');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10119 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10120 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10121 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10122 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10125 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10126 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10127 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10123 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10084 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10124 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10128 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10129 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10130 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10131 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10132 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10133 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10134 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10135 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10136 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10137 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10138 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10139 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10140 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10141 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10142 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10143 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10144 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10145 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10146 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10147 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10148 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10149 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10150 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10151 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10153 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10156 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10154 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10157 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_interrupt" ("hostid", "value_cpu_interrupt", "time_cpu_interrupt") values (10155 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10119 , 0.0165 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10120 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10121 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10122 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10125 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10127 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10126 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10123 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10084 , 0.112 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10124 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10128 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10129 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10130 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10131 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10132 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10133 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10134 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10135 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10136 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10137 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10138 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10139 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10140 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10141 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10142 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10143 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10144 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10145 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10146 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10147 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10148 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10149 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10150 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10151 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10153 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10156 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10154 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10157 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_Iowait" ("hostid", "value_cpu_Iowait", "time_cpu_Iowait") values (10155 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10119 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10120 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10121 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10125 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10122 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10127 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10126 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10123 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10084 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10124 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10128 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10129 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10130 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10131 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10132 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10133 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10134 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10135 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10136 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10137 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10138 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10139 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10140 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10141 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10142 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10143 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10144 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10145 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10146 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10147 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10148 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10149 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10150 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10151 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10153 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10156 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10154 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10157 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_nice" ("hostid", "value_cpu_nice", "time_cpu_nice") values (10155 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10119 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10120 , 0.0165 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10121 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10122 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10125 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10126 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10127 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10123 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10084 , 0.1125 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10124 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10128 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10129 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10130 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10131 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10132 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10133 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10134 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10135 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10136 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10137 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10138 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10139 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10140 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10141 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10142 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10143 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10144 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10145 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10146 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10147 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10148 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10149 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10150 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10151 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10153 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10156 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10154 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10157 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_softirq" ("hostid", "value_cpu_softirq", "time_cpu_softirq") values (10155 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10119 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10120 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10121 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10122 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10125 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10126 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10127 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10123 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10084 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10124 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10128 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10129 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10130 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10131 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10132 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10133 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10134 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10135 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10136 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10137 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10138 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10139 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10140 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10141 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10142 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10143 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10144 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10145 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10146 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10147 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10148 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10149 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10150 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10151 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10153 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10156 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10154 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10157 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_steal" ("hostid", "value_cpu_steal", "time_cpu_steal") values (10155 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10119 , 0.0335 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10120 , 0.05 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10121 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10125 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10122 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10127 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10126 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10123 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10084 , 2.9010000000000002 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10124 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10128 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10129 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10130 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10131 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10132 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10133 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10134 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10135 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10136 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10137 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10138 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10139 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10140 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10141 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10142 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10143 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10144 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10145 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10146 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10147 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10148 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10149 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10150 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10151 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10153 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10156 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10154 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10157 , 0 , '2023-05-15 10:05:26');
+insert into "cpu_system" ("hostid", "value_cpu_system", "time_cpu_system") values (10155 , 0 , '2023-05-15 10:05:26');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10084 , 10405810176 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10119 , 14787084288 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10121 , 0 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10122 , 0 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10124 , 0 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10120 , 5603442688 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10123 , 0 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10125 , 0 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10126 , 0 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10128 , 0 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10127 , 0 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10134 , 0 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10131 , 0 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10136 , 0 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10129 , 0 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10130 , 0 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10132 , 0 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10133 , 0 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10135 , 0 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10151 , 0 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10155 , 0 , '2023-05-15 10:05:27');
+insert into "size_free" ("hostid", "value_size_free", "time_size_free") values (10140 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10084 , 20091629568 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10119 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10121 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10122 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10124 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10120 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10123 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10125 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10126 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10127 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10128 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10134 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10131 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10136 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10129 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10130 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10132 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10133 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10135 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10151 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10155 , 0 , '2023-05-15 10:05:27');
+insert into "size_total" ("hostid", "value_size_total", "time_size_total") values (10140 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10119 , 1894825984 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10120 , 1924636672 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10121 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10084 , 935247872 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10122 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10125 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10126 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10127 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10123 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10124 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10128 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10129 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10130 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10131 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10132 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10133 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10134 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10135 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10136 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10137 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10138 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10139 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10140 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10141 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10142 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10143 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10144 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10145 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10146 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10147 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10148 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10149 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10150 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10151 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10153 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10156 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10154 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10157 , 0 , '2023-05-15 10:05:27');
+insert into "memory_available" ("hostid", "value_memory_available", "time_memory_available") values (10155 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10119 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10127 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10120 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10121 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10125 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10122 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10126 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10123 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10084 , 2095185920 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10124 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10128 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10129 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10130 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10131 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10132 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10133 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10134 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10135 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10136 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10137 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10138 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10139 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10140 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10141 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10142 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10143 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10144 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10145 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10146 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10147 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10148 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10149 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10150 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10151 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10153 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10156 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10154 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10157 , 0 , '2023-05-15 10:05:27');
+insert into "memory_total" ("hostid", "value_memory_total", "time_memory_total") values (10155 , 0 , '2023-05-15 10:05:27');
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (13867 , '{MC11:system.run[service gonets-scheduller status].str(not)}#0', 'Сервис Gonets не работает на MC11', '3', 10084);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (13829 , '{ARM02:system.uptime.change(0)}<0', 'ARM02 был перезагружен', '1', 10120);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (13836 , '{ARM03:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM03 недоступен более 5 минут', '3', 10121);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (13853 , '{ARM04:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM04 недоступен более 5 минут', '3', 10122);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (13875 , '{ARM05:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM05 недоступен более 5 минут', '3', 10123);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (13892 , '{ARM06:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM06 недоступен более 5 минут', '3', 10124);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (13907 , '{ARM07:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM07 недоступен более 5 минут', '3', 10125);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (13936 , '{ARM17:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM17 недоступен более 5 минут', '3', 10126);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (13953 , '{ARM08:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM08 недоступен более 5 минут', '3', 10127);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (13970 , '{ARM09:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM09 недоступен более 5 минут', '3', 10128);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (13987 , '{ARM10:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM10 недоступен более 5 минут', '3', 10129);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14004 , '{ARM11:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM11 недоступен более 5 минут', '3', 10130);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14021 , '{ARM12:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM12 недоступен более 5 минут', '3', 10131);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14038 , '{ARM13:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM13 недоступен более 5 минут', '3', 10132);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14055 , '{ARM14:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM14 недоступен более 5 минут', '3', 10133);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14072 , '{ARM15:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM15 недоступен более 5 минут', '3', 10134);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14089 , '{ARM16:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM16 недоступен более 5 минут', '3', 10135);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14108 , '{ARM18:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM18 недоступен более 5 минут', '3', 10136);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14146 , '{ARM19:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM19 недоступен более 5 минут', '3', 10137);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14163 , '{ARM20:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM20 недоступен более 5 минут', '3', 10138);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14180 , '{ARM21:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM21 недоступен более 5 минут', '3', 10139);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14197 , '{ARM22:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM22 недоступен более 5 минут', '3', 10140);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14212 , '{ARM23:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM23 недоступен более 5 минут', '3', 10141);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14229 , '{ARM24:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM24 недоступен более 5 минут', '3', 10142);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14246 , '{ARM25:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM25 недоступен более 5 минут', '3', 10143);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14265 , '{ARM26:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM26 недоступен более 5 минут', '3', 10144);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14282 , '{ARM27:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM27 недоступен более 5 минут', '3', 10145);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14297 , '{ARM28:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM28 недоступен более 5 минут', '3', 10146);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14314 , '{ARM29:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM29 недоступен более 5 минут', '3', 10147);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14333 , '{ARM30:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM30 недоступен более 5 минут', '3', 10148);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14348 , '{ARM31:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM31 недоступен более 5 минут', '3', 10149);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14367 , '{ARM32:agent.ping.nodata(5m)}=1', 'Сборщик данных на ARM32 недоступен более 5 минут', '3', 10150);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14384 , '{MC21:agent.ping.nodata(5m)}=1', 'Сборщик данных на MC21 недоступен более 5 минут', '3', 10151);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14418 , '{MC12:agent.ping.nodata(5m)}=1', 'Сборщик данных на MC12 недоступен более 5 минут', '3', 10153);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14452 , '{MC22:agent.ping.nodata(5m)}=1', 'Сборщик данных на MC22 недоступен более 5 минут', '3', 10154);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14486 , '{CC21:agent.ping.nodata(5m)}=1', 'Сборщик данных на CC21 недоступен более 5 минут', '3', 10155);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14435 , '{CC12:agent.ping.nodata(5m)}=1', 'Сборщик данных на CC12 недоступен более 5 минут', '3', 10156);
+insert into "triggers" ("triggerid", "triggers_expression", "description", "priority", "hostid") values (14469 , '{CC22:agent.ping.nodata(5m)}=1', 'Сборщик данных на CC22 недоступен более 5 минут', '3', 10157);
+
+2023.05.15(10h05m42s): ************** отношение "percpu_avg1" не существует **************
+2023.05.15(10h05m42s): Данные не обновлены
+
+

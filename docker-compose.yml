@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+
+  zabbix-data-handler:
+    restart: always
+    build: ./zabbix-data-handler
